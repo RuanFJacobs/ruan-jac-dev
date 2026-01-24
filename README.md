@@ -1,13 +1,14 @@
 ## Hi, I'm Ruan
 
-Junior Developer focused on learning to be a full-stack web developer.
+Junior Developer returning to software development and building toward full-stack web development.
 
 ### Currently learning
+Focused on fundamentals and rebuilding strong habits after time away from development.
 - JavaScript
 - HTML & CSS
 - Git & GitHub
 
-### Projects
+### Early Projects
 - Invoice (Shopify's Liquid)
 
 ### Contact
