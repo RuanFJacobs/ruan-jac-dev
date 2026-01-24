@@ -13,3 +13,5 @@ Focused on fundamentals and rebuilding strong habits after time away from develo
 
 ### Contact
 - LinkedIn: (coming soon)
+
+Last updated locally from my PC.
