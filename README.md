@@ -26,8 +26,6 @@ A Shopify Liquid invoice template I customized and built from scratch.
 
 ---
 
-##
-
 ### JavaScript Basics
 I am relearning JavaScript fundamentals through small exercises and scripts.
 Check out my repo:: [JavaScript-Basics](https://github.com/RuanFJacobs/javascript-basics)
