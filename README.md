@@ -21,17 +21,17 @@ A Shopify Liquid invoice template I customized and built from scratch.
 - Dynamic: handles orders, addresses, line items, discounts, taxes, and shipping logic.  
 - GitHub-safe version: all personal/company info removed.  
 - Showcases skills in **Liquid templating, HTML, CSS, and dynamic data handling**.  
-🔗 [View Project on GitHub](https://github.com/RuanFJacobs/liquid-invoice)
+[View Project on GitHub](https://github.com/RuanFJacobs/liquid-invoice)
 
 ### Arduino Servo Clicker
 A small hardware automation project using Arduino and a servo motor.
 - Moves a servo arm at random intervals (5–15 seconds)
 - Demonstrates C++ programming, servo control, and microcontroller timing
-🔗 [View Project on GitHub](https://github.com/RuanFJacobs/arduino-servo-clicker)
+[View Project on GitHub](https://github.com/RuanFJacobs/arduino-servo-clicker)
 
 ### JavaScript Basics
 I am relearning JavaScript fundamentals through small exercises and scripts.\
-🔗 [Check out my JavaScript-Basics Repo](https://github.com/RuanFJacobs/javascript-basics)
+[Check out my JavaScript-Basics Repo](https://github.com/RuanFJacobs/javascript-basics)
 
 ---
 
