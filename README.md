@@ -16,6 +16,15 @@ Focused on fundamentals and rebuilding strong habits after time away from develo
 ## Projects
 Here are some of my early projects:
 
+### Game Stats Dashboard Web App
+A RuneScape 3 player analytics web app that enables users to:
+- Search and view detailed skill statistics.
+- Compare multiple players side-by-side.
+- Plan training goals using milestone unlock data.
+- Track recent in-game activity.
+- View current rankings per skill.\
+[View Project on GitHub](https://github.com/RuanFJacobs/rs3-player-tool)
+
 ### Liquid Invoice Template
 A Shopify Liquid invoice template I customized and built from scratch.  
 - Dynamic: handles orders, addresses, line items, discounts, taxes, and shipping logic.  
