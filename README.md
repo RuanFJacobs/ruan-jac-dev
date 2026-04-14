@@ -34,12 +34,12 @@ A RuneScape 3 player analytics web app that enables users to:
 Responsive one-page website template designed for professional service businesses such as law firms and consultants.  
 Built with HTML and CSS using modern layout techniques including Flexbox and Grid.
 
-- fully responsive layout
-- sticky navigation
-- reusable section structure
-- accessible contact form
-- neutral branding for easy customization
-- clean typography and spacing system
+- fully responsive layout.
+- sticky navigation.
+- reusable section structure.
+- accessible contact form.
+- neutral branding for easy customization.
+- clean typography and spacing system.\
   [View Project on Github](https://github.com/RuanFJacobs/template-portfolio-site)
 
 ### Liquid Invoice Template
@@ -55,7 +55,7 @@ A Shopify Liquid invoice template I customized and built from scratch.
 
 A small hardware automation project using Arduino and a servo motor.
 
-- Moves a servo arm at random intervals (5–15 seconds)
+- Moves a servo arm at random intervals (5–15 seconds).
 - Demonstrates C++ programming, servo control, and microcontroller timing.\
   [View Project on GitHub](https://github.com/RuanFJacobs/arduino-servo-clicker)
 
