@@ -42,6 +42,19 @@ Built with HTML and CSS using modern layout techniques including Flexbox and Gri
 - clean typography and spacing system.\
   [View Project on Github](https://github.com/RuanFJacobs/template-portfolio-site)
 
+### Pokémon Stat Game
+
+A simple Pokémon game where you need to choose the best stat for a random Pokémon and hope to achieve 600 points.
+
+- Random Pokémon selection by generation.
+- Strategic stat selection mechanic.
+- Live stat total calculation with win condition at 600 total points.
+- Optimal solution comparison after each run.
+- Visual stat strength indicator.
+- Responsive layout for desktop and mobile.
+- Clean modular data structure using external dataset file.\
+  [View Project on GitHub](https://github.com/RuanFJacobs/pokemon-stat-game)
+
 ### Liquid Invoice Template
 
 A Shopify Liquid invoice template I customized and built from scratch.
@@ -55,7 +68,8 @@ A Shopify Liquid invoice template I customized and built from scratch.
 
 A small hardware automation project using Arduino and a servo motor.
 
-- Moves a servo arm at random intervals (5–15 seconds).
+- Moves a servo arm at random changeable intervals.
+- V2 has a second click following the first click also with random changeable intervals.
 - Demonstrates C++ programming, servo control, and microcontroller timing.\
   [View Project on GitHub](https://github.com/RuanFJacobs/arduino-servo-clicker)
 
